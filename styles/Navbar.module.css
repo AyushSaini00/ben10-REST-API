@@ -1,0 +1,14 @@
+.notice-box {
+    background: linear-gradient(270deg,#EAD420 25.28%,#70FD30 59.7%,#01D549 97.75%);
+    height: 17px;
+}
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border-bottom: 1px solid #ddd ;
+    padding: 0.5rem 1rem;
+}
+.logo {
+    margin-right: auto;
+}
