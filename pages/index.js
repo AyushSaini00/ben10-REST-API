@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -7,11 +8,15 @@ export default function Home() {
     <div className="home">
       <h1>A RESTful Ben 10 API</h1>
       <h3>Get hand curated Ben 10 data</h3>
-      <p>Powered by Express & MongoDB</p>
+      <p>
+        Powered by <span className="highlight">Express</span> & <span className="highlight">MongoDB</span> 
+      </p>
     </div>
-    <button>
-      GET STARTED →
-    </button>
+    <Link href="/docs">
+      <a className="btn">
+        GET STARTED &nbsp; →
+      </a>
+    </Link>
     </section>
   )
 }
