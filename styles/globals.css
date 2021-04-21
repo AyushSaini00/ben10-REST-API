@@ -23,6 +23,7 @@ nav a {
     margin-left: 14px;
 }
 .section-home {
+    text-align: center;
     margin: 0 auto;
     max-width: 26rem;
     padding: 2rem;
