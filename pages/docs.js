@@ -1,7 +1,12 @@
+import Head from 'next/head'
 import styles from '../styles/Docs.module.css'
 
 const Docs = () => {
     return (
+        <>
+        <Head>
+            <title>Ben 10 RESTful API | Docs</title>
+        </Head>
         <div>
             <section className="section-page">
                 <div className="section-page-div">
@@ -82,6 +87,7 @@ const Docs = () => {
                 </div>
             </section>
         </div>
+        </>
     );
 }
  
