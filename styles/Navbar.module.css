@@ -1,6 +1,11 @@
 .notice-box {
     background: linear-gradient(270deg,#EAD420 25.28%,#70FD30 59.7%,#01D549 97.75%);
-    height: 17px;
+    height: 22px;
+}
+.notice-box-content{
+    font-size: 0.9rem;
+    text-align: center;
+    font-weight: 500;
 }
 .nav {
     display: flex;
