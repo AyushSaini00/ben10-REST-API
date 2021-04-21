@@ -92,3 +92,10 @@ nav a {
 .sponser-msg {
     margin-bottom: 2.5rem;
 }
+.footer {
+    text-align: center;
+    margin: 2.4rem 0;
+}
+.footer a {
+    color: #008000;
+}
