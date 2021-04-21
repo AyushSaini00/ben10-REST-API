@@ -19,3 +19,50 @@ a {
 a:hover {
     color: #008000;
 }
+nav a {
+    margin-left: 14px;
+}
+.section-home {
+    margin: 0 auto;
+    max-width: 26rem;
+    padding: 2rem;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.home {
+    margin-bottom: 3rem;
+}
+.home h1 {
+    margin-bottom: 2rem;
+    font-size: 28px;
+}
+.home h3 {
+    margin-bottom: 1rem;
+    font-weight: normal;
+}
+.home p {
+    font-size: 0.8rem;
+    letter-spacing: 0.5px;
+}
+button {
+    border: none;
+    cursor: pointer;
+    color: #008000;
+    background: #fff;
+    border: 1px solid #008000;
+    border-radius: 0.25rem;
+    font-weight: bold;
+    height: 2.7rem;
+    min-width: 2.5rem;
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+    transition: all 0.2s ease; 
+}
+button:hover {
+    background: #008000;
+    color: #fff;
+    box-shadow: 0px 4px 8px 0px rgb(170, 244, 148);
+}
