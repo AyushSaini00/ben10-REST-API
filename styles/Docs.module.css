@@ -1,0 +1,28 @@
+.section-docs {
+    padding: 2rem;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.title {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+.request-type {
+    text-decoration: underline #008000;
+    font-size: 1.1rem;
+}
+.section-doc {
+    margin: 0 auto;
+}
+.pre {
+    font-size: .9rem;
+    background: #fff;
+    border-radius: 3px;
+    border: 1px solid #008000;
+    margin: .7rem 0 2rem 0;
+    padding: .5rem 1rem;
+    display: block;
+}
