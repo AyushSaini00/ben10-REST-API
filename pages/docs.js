@@ -3,9 +3,9 @@ import styles from '../styles/Docs.module.css'
 const Docs = () => {
     return (
         <div>
-            <section className={styles['section-docs']}>
-                <div className={styles['section-doc']}>
-                    <h2 className={styles.title}>Usage</h2>
+            <section className="section-page">
+                <div className="section-page-div">
+                    <h2 className="page-title">Usage</h2>
                     <p className={styles['request-type']}>Retrive a random alien object »</p>
                     <pre className={styles.pre}>
                         <code>
@@ -53,7 +53,7 @@ const Docs = () => {
                     <pre className={styles.pre}>
                         <code>
                             <a href="https://ben10-api.herokuapp.com/aliens/6078370439565863c09f4486">
-                                https://ben10-api.herokuapp.com/aliens/6078370439565863c09f4486
+                                https://ben10-api.herokuapp.com/aliens/<br></br>6078370439565863c09f4486
                             </a>
                         </code>
                     </pre>
