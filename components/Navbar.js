@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import styles from '../styles/Navbar.module.css'
+import Image from 'next/image'
 
 const Navbar = () => {
     return (
@@ -11,7 +12,7 @@ const Navbar = () => {
                 <div className={ styles.logo }>
                     <Link href="/">
                         <a>
-                            <h1>Ben 10 API</h1>
+                            <Image src="/logo.png" width={140} height={40} />
                         </a>
                     </Link>
                 </div>

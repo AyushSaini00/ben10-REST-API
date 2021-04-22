@@ -16,4 +16,6 @@
 }
 .logo {
     margin-right: auto;
+    position: relative;
+    top: 12px;
 }
