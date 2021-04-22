@@ -12,7 +12,7 @@ A while ago when I was learning Javascript by building [projects](https://60minu
 ## Support 🙌
 Ben 10 API is totally free to use and always will be. It was a fun project, built from scratch & maintained solely by me and doing that needed both time & energy. With your help I can continue to maintain the project. Donations are highly appreciated. All the sponsers & donations with there profile will be updated here as well as on the site. Thank you :)
 
-<a href="https://www.buymeacoffee.com/ayushsaini" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 48px !important;width: 180px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ayushsaini" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="48" width="176" ></a>
 
 ## Disclaimer 📝
 Ben 10 & its characters / aliens are the respective trademarks and copyrights of their owners. Neither the website nor its creator are affiliated in any way with Ben 10 or their creators, corporation, or any organisation. The content on the website is not necessarily true and should not be regarded as truth. The project was intended for fun purposes only.
