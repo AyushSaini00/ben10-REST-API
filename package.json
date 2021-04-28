@@ -2,6 +2,8 @@
   "name": "ben10-rest-api",
   "version": "0.1.0",
   "private": true,
+  "description": "Ben 10 API is a RESTful api serving hand curated Ben 10 Aliens data",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,5 +13,12 @@
     "next": "10.1.3",
     "react": "17.0.2",
     "react-dom": "17.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AyushSaini00/ben10-REST-API"
+  },
+  "bugs": {
+    "url": "https://github.com/AyushSaini00/ben10-REST-API/issues"
   }
 }
