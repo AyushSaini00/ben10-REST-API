@@ -3,3 +3,5 @@ node_modules
 package.json
 package-lock.json
 public
+docs.js
+index.js
