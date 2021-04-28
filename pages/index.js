@@ -1,27 +1,13 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import Metadata from '../components/Metadata'
 
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Ben 10 RESTful API | Home</title>
-
-        {/* BUY ME A COFFEE SCRIPT TAG */}
-        <script 
-          data-name="BMC-Widget" 
-          data-cfasync="false" 
-          src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" 
-          data-id="ayushsaini" 
-          data-description="Support me on Buy me a coffee!" 
-          data-message="" 
-          data-color="#5F7FFF" 
-          data-position="Right" 
-          data-x_margin="18" 
-          data-y_margin="18">
-        </script>
-
-      </Head>
+      <Metadata
+        title="Ben 10 RESTful API | HomePage"
+      />
       <div>
         <section className="section-home">
           <div className="home">

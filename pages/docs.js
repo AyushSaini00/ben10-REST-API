@@ -1,12 +1,12 @@
-import Head from 'next/head'
 import styles from '../styles/Docs.module.css'
+import Metadata from '../components/Metadata'
 
 const Docs = () => {
     return (
         <>
-        <Head>
-            <title>Ben 10 RESTful API | Docs</title>
-        </Head>
+        <Metadata
+        title="Ben 10 RESTful API | Docs"
+      />
         <div>
             <section className="section-page">
                 <div className="section-page-div">
