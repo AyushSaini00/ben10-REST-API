@@ -20,5 +20,8 @@
   },
   "bugs": {
     "url": "https://github.com/AyushSaini00/ben10-REST-API/issues"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
