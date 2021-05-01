@@ -1,17 +1,17 @@
 import Image from "next/image";
 import Metadata from "../components/Metadata";
 
-const Sponsers = () => {
+const Sponsors = () => {
   return (
     <>
       <Metadata
-        title="Ben 10 RESTful API | Sponsers Page"
+        title="Ben 10 RESTful API | Sponsors Page"
         description="Here's how you can help to keep Ben 10 API alive. Donations are highly appreciated"
       />
       <div>
         <section className="section-page">
           <div className="section-page-div">
-            <h2 className="page-title">Sponsers ❤</h2>
+            <h2 className="page-title">Sponsors ❤</h2>
             <p className="sponser-msg">
               Ben 10 API is totally free to use and always will be. It was a fun project, built
               from scratch & maintained solely by me and doing that needed both time & energy.
@@ -29,4 +29,4 @@ const Sponsers = () => {
   );
 };
 
-export default Sponsers;
+export default Sponsors;
